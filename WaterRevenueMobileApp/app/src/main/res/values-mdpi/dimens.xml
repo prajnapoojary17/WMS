@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    <dimen name="marginTopMain">125dp</dimen>
+    <dimen name="lock_icon">70dp</dimen>
+    <dimen name="lock_icon_marginbottom">-35dp</dimen>
+</resources>

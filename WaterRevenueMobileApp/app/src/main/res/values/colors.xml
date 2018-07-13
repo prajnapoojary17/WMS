@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#3F51B5</color>
+    <color name="editTextBackground">#e9e7e7</color>
+    <color name="editextBorder">#cbcedc</color>
+    <color name="transparent">#33206ede</color>
+    <color name="white">#FFF</color>
+    <color name="black">#000</color>
+    <color name="edittext">#9badbd</color>
+    <color name="login_button">#2d7ded</color>
+    <color name="login_layout_rounded">#40e1d5d5</color>
+    <color name="transparent_gray">#4Dd3d3d3 </color>
+
+</resources>

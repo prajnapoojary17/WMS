@@ -1,0 +1,11 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="login_layout">15dp</dimen>
+    <dimen name="marginTopMain">250dp</dimen>
+    <dimen name="twenty">16dp</dimen>
+    <dimen name="fourty">40dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="lock_icon">50dp</dimen>
+
+</resources>

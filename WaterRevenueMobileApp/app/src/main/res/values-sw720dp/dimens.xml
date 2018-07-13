@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    <dimen name="twenty">30dp</dimen>
+    <dimen name="lock_icon">110dp</dimen>
+    <dimen name="lock_icon_marginbottom">-50dp</dimen>
+</resources>

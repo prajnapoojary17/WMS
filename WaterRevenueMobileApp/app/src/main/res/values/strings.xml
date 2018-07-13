@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Water Revenue Mobile App</string>
+    <string name="userName">Enter user Name</string>
+    <string name="password">Enter password</string>
+    <string name="login">Login</string>
+    <string name="save_pwd">Remember me</string>
+    <string name="no_internet">No internet connection!</string>
+    <string name="error_occured">Error Occurred !</string>
+    <string name="pullData">Pull Data</string>
+    <string name="generateBill">Generate Bill</string>
+    <string name="scanprinter">Scan and Test Printer</string>
+    <string name="consumerbill">Consumer Bill Payment Report</string>
+    <string name="title_activity_splash">SplashActivity</string>
+</resources>

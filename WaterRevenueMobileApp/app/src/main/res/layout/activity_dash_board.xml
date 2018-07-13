@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="5"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1.5"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/imageLogoDash1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:src="@mipmap/loginupperlogo" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1.5"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btnPulldata"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:text="@string/pullData"
+            android:textColor="@color/colorPrimary"
+            android:textSize="@dimen/twenty"
+            android:padding="30dp"
+            android:background="@drawable/shadow"
+            />
+
+        <Button
+            android:id="@+id/btnGenerateBill"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:text="@string/generateBill"
+            android:textColor="@color/colorPrimary"
+            android:textSize="@dimen/twenty"
+            android:padding="30dp"
+            android:background="@drawable/shadow"
+            />
+
+        <Button
+            android:id="@+id/btnScanPrinter"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:text="@string/scanprinter"
+            android:textColor="@color/colorPrimary"
+            android:textSize="@dimen/twenty"
+            android:padding="30dp"
+            android:background="@drawable/shadow"
+            />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:layout_weight="2">
+
+        <ImageView
+            android:id="@+id/imageLogoDash2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/logo_lower_dashboard"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"/>
+    </RelativeLayout>
+
+</LinearLayout>
